@@ -1,0 +1,5 @@
+[ERROR] 2025-04-29T10:12:12.854Z - Error during scraping: Could not find job listings container
+[ERROR] 2025-04-29T10:12:13.379Z - Error during scraping: Could not find job listings container
+[ERROR] 2025-04-29T10:18:13.320Z - Error during scraping: Could not find job listings container
+[ERROR] 2025-04-29T10:18:13.831Z - Error during scraping: Could not find job listings container
+[ERROR] 2025-04-29T10:19:40.259Z - Server error: listen EADDRINUSE: address already in use :::3000

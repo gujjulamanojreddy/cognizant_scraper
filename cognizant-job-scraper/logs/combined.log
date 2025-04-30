@@ -1,0 +1,134 @@
+[INFO] 2025-04-29T07:09:22.957Z - Starting job scraping...
+[INFO] 2025-04-29T07:09:23.552Z - Navigating to Cognizant careers page...
+[DEBUG] 2025-04-29T07:09:24.984Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.105Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.156Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.157Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.382Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.440Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.442Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.494Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.540Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.542Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.672Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.709Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.710Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.711Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.712Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.712Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.780Z - Browser console:
+[DEBUG] 2025-04-29T07:09:25.934Z - Browser console:
+[DEBUG] 2025-04-29T07:09:26.443Z - Browser console:
+[DEBUG] 2025-04-29T07:09:33.263Z - Browser console:
+[DEBUG] 2025-04-29T07:09:33.352Z - Browser console:
+[DEBUG] 2025-04-29T07:09:33.439Z - Browser console:
+[DEBUG] 2025-04-29T07:09:33.528Z - Browser console:
+[DEBUG] 2025-04-29T07:09:33.586Z - Browser console:
+[DEBUG] 2025-04-29T07:09:33.871Z - Browser console:
+[DEBUG] 2025-04-29T07:09:33.876Z - Browser console:
+[DEBUG] 2025-04-29T07:09:33.877Z - Browser console:
+[INFO] 2025-04-29T07:09:37.957Z - Detecting page structure...
+[INFO] 2025-04-29T07:09:37.972Z - Found working selectors for job listings
+[INFO] 2025-04-29T07:09:37.972Z - Scraping page 1...
+[WARN] 2025-04-29T07:09:38.991Z - No valid jobs found on current page
+[INFO] 2025-04-29T07:09:38.992Z - Successfully scraped 0 unique jobs
+[WARN] 2025-04-29T07:09:39.257Z - No jobs were scraped. This might indicate an issue.
+[INFO] 2025-04-29T07:22:18.836Z - Server running on port 3000
+[INFO] 2025-04-29T07:38:08.622Z - Server running on port 3000
+[INFO] 2025-04-29T08:50:48.939Z - Navigating to Cognizant careers page...
+[ERROR] 2025-04-29T08:51:18.956Z - Error during scraping: Navigation timeout of 30000 ms exceeded
+[INFO] 2025-04-29T08:52:41.839Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T08:52:49.427Z - Scraping page 1...
+[INFO] 2025-04-29T08:52:49.430Z - Found 0 jobs on page 1
+[INFO] 2025-04-29T08:52:49.486Z - Successfully scraped 0 jobs
+[INFO] 2025-04-29T08:59:01.697Z - Navigating to Cognizant careers page...
+[ERROR] 2025-04-29T09:00:08.487Z - Error during scraping: Waiting for selector `.search-results-container` failed: Waiting failed: 60000ms exceeded
+[INFO] 2025-04-29T09:02:16.831Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T09:02:23.413Z - Waiting for job results to load...
+[INFO] 2025-04-29T09:04:06.435Z - Scraping page 1...
+[INFO] 2025-04-29T09:04:06.497Z - Found 0 jobs on page 1
+[INFO] 2025-04-29T09:04:06.566Z - Successfully scraped 0 jobs
+[INFO] 2025-04-29T09:06:38.270Z - Navigating to Cognizant careers page...
+[ERROR] 2025-04-29T09:08:38.280Z - Error during scraping: Navigation timeout of 120000 ms exceeded
+[INFO] 2025-04-29T09:10:42.440Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T09:10:51.801Z - Page title: Your first job at Cognizant is just the beginning of your journey | Cognizant Careers
+[INFO] 2025-04-29T09:10:51.802Z - Clicking search button...
+[ERROR] 2025-04-29T09:10:51.830Z - Error during scraping: No element found for selector: button[data-ph-at-id="jobs-search-button"], [data-ph-id="ph-search-jobs-button"]
+[INFO] 2025-04-29T09:10:51.956Z - Error screenshot saved as error-screenshot.png
+[INFO] 2025-04-29T09:10:58.220Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T09:11:06.575Z - Page title: Your first job at Cognizant is just the beginning of your journey | Cognizant Careers
+[INFO] 2025-04-29T09:11:06.577Z - Clicking search button...
+[ERROR] 2025-04-29T09:11:06.622Z - Error during scraping: No element found for selector: button[data-ph-at-id="jobs-search-button"], [data-ph-id="ph-search-jobs-button"]
+[INFO] 2025-04-29T09:11:06.752Z - Error screenshot saved as error-screenshot.png
+[INFO] 2025-04-29T09:20:28.510Z - Navigating to search results: https://careers.cognizant.com/global/en/search-results
+[INFO] 2025-04-29T09:20:56.741Z - Current URL: https://careers.cognizant.com/global-en/jobs/
+[ERROR] 2025-04-29T09:20:56.745Z - Error during scraping: Attempted to use detached Frame '7E185D6FF728FDD135EBFF2BDA2E949D'.
+[INFO] 2025-04-29T09:20:56.869Z - Error screenshot saved as error-screenshot.png
+[INFO] 2025-04-29T09:20:56.874Z - Page content saved as error-page.html
+[INFO] 2025-04-29T09:24:54.435Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T09:25:19.321Z - Waiting for page load...
+[INFO] 2025-04-29T09:25:26.212Z - Saved initial page screenshot
+[WARN] 2025-04-29T09:25:36.221Z - Selector not found: div[data-ph-id="ph-page-element-page-block-9"]
+[WARN] 2025-04-29T09:25:46.238Z - Selector not found: div[data-ph-at-id="joblist-container"]
+[WARN] 2025-04-29T09:25:54.633Z - Selector not found: div[data-ph-id="ph-default-content"]
+[INFO] 2025-04-29T09:25:54.634Z - Starting job extraction...
+[ERROR] 2025-04-29T09:25:54.746Z - Error during scraping: Execution context was destroyed
+[INFO] 2025-04-29T09:25:54.990Z - Debug files saved: error-screenshot.png and error-page.html
+[INFO] 2025-04-29T09:28:35.192Z - Navigating to Cognizant careers page...
+[WARN] 2025-04-29T09:28:53.438Z - Could not find search button, trying direct navigation
+[INFO] 2025-04-29T09:28:55.267Z - Waiting for job listings...
+[ERROR] 2025-04-29T09:29:35.300Z - Error during scraping: Could not find job listings container
+[INFO] 2025-04-29T09:29:35.480Z - Debug files saved: error-screenshot.png and error-page.html
+[ERROR] 2025-04-29T10:02:20.645Z - Server error: listen EADDRINUSE: address already in use :::3000
+[INFO] 2025-04-29T10:19:26.400Z - Server running on port 3000
+[INFO] 2025-04-29T10:19:53.697Z - Starting job scraping...
+[INFO] 2025-04-29T10:19:54.695Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T10:20:12.835Z - Waiting for job listings...
+[ERROR] 2025-04-29T10:22:42.901Z - Error during scraping: Could not find job listings container
+[INFO] 2025-04-29T10:22:43.156Z - Debug files saved: error-screenshot.png and error-page.html
+[ERROR] 2025-04-29T10:22:43.589Z - Error during scraping: Could not find job listings container
+[INFO] 2025-04-29T10:26:25.508Z - Starting job scraping...
+[INFO] 2025-04-29T10:26:26.386Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T10:26:42.468Z - Waiting for job listings...
+[ERROR] 2025-04-29T10:29:12.516Z - Error during scraping: Could not find job listings container
+[INFO] 2025-04-29T10:29:12.808Z - Debug files saved: error-screenshot.png and error-page.html
+[ERROR] 2025-04-29T10:29:13.255Z - Error during scraping: Could not find job listings container
+[INFO] 2025-04-29T10:30:53.485Z - Starting job scraping...
+[INFO] 2025-04-29T10:30:54.408Z - Navigating to Cognizant careers page...
+[WARN] 2025-04-29T10:30:57.943Z - Navigation attempt 1 failed, retrying in 5000ms...
+[WARN] 2025-04-29T10:31:02.953Z - Navigation attempt 2 failed, retrying in 5000ms...
+[ERROR] 2025-04-29T10:31:07.958Z - Error during scraping: Attempted to use detached Frame 'BC75AB0B4873C91C308D671D4228E2F2'.
+[ERROR] 2025-04-29T10:31:07.961Z - Error during scraping: Attempted to use detached Frame 'BC75AB0B4873C91C308D671D4228E2F2'.
+[INFO] 2025-04-29T12:06:29.432Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T12:06:40.787Z - No cookie consent dialog found
+[INFO] 2025-04-29T12:08:10.818Z - No standard job container found, trying alternative approach...
+[ERROR] 2025-04-29T12:08:40.828Z - Error during scraping: Waiting for selector `[data-ph-at-id^="job-"],.job-tile,.job-card,a[href*="/job/"]` failed: Waiting failed: 30000ms exceeded
+[INFO] 2025-04-29T12:08:41.028Z - Debug files saved: error-screenshot.png and error-page.html
+[INFO] 2025-04-29T12:09:28.217Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T12:09:39.319Z - No cookie consent dialog found
+[ERROR] 2025-04-29T12:10:39.343Z - Error during scraping: Waiting for selector `div.card.card-job` failed: Waiting failed: 60000ms exceeded
+[INFO] 2025-04-29T12:10:39.563Z - Debug files saved: error-screenshot.png and error-page.html
+[INFO] 2025-04-29T12:12:16.854Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T12:12:27.886Z - No cookie consent dialog found
+[ERROR] 2025-04-29T12:13:27.901Z - Error during scraping: Waiting for selector `div#js-job-search-results.grid.job-listing.js-animate` failed: Waiting failed: 60000ms exceeded
+[INFO] 2025-04-29T12:13:28.099Z - Debug files saved: error-screenshot.png and error-page.html
+[INFO] 2025-04-29T12:14:58.669Z - Navigating to Cognizant careers page...
+[INFO] 2025-04-29T12:15:00.591Z - Page loaded, checking content...
+[INFO] 2025-04-29T12:15:10.615Z - Page title: Attention Required! | Cloudflare
+[INFO] 2025-04-29T12:15:10.622Z - Page has content: true
+[INFO] 2025-04-29T12:15:10.623Z - Trying selector: div.card.card-job
+[INFO] 2025-04-29T12:15:40.644Z - Selector div.card.card-job not found
+[INFO] 2025-04-29T12:15:40.646Z - Trying selector: div[class*="job-listing"]
+[INFO] 2025-04-29T12:16:10.659Z - Selector div[class*="job-listing"] not found
+[INFO] 2025-04-29T12:16:10.660Z - Trying selector: div[class*="search-results"]
+[INFO] 2025-04-29T12:16:40.675Z - Selector div[class*="search-results"] not found
+[INFO] 2025-04-29T12:16:40.676Z - Trying selector: [data-ph-at-id="jobs-list"]
+[INFO] 2025-04-29T12:17:10.690Z - Selector [data-ph-at-id="jobs-list"] not found
+[ERROR] 2025-04-29T12:17:10.691Z - No job elements found on the page
+[ERROR] 2025-04-29T12:17:10.693Z - Error during scraping: Could not find job listings
+[INFO] 2025-04-29T12:17:10.882Z - Debug files saved: error-screenshot.png and error-page.html
+[INFO] 2025-04-29T12:18:09.458Z - Navigating to Cognizant careers page...
+[ERROR] 2025-04-29T12:18:23.453Z - Error during scraping: Navigating frame was detached
+[INFO] 2025-04-29T12:22:11.756Z - Navigation attempt 1/3
+[ERROR] 2025-04-29T12:22:19.116Z - Navigation attempt 1 failed:
+[ERROR] 2025-04-29T12:22:29.131Z - Navigation attempt 2 failed:

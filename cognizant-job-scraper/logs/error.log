@@ -1,0 +1,23 @@
+[ERROR] 2025-04-29T08:51:18.956Z - Error during scraping: Navigation timeout of 30000 ms exceeded
+[ERROR] 2025-04-29T09:00:08.487Z - Error during scraping: Waiting for selector `.search-results-container` failed: Waiting failed: 60000ms exceeded
+[ERROR] 2025-04-29T09:08:38.280Z - Error during scraping: Navigation timeout of 120000 ms exceeded
+[ERROR] 2025-04-29T09:10:51.830Z - Error during scraping: No element found for selector: button[data-ph-at-id="jobs-search-button"], [data-ph-id="ph-search-jobs-button"]
+[ERROR] 2025-04-29T09:11:06.622Z - Error during scraping: No element found for selector: button[data-ph-at-id="jobs-search-button"], [data-ph-id="ph-search-jobs-button"]
+[ERROR] 2025-04-29T09:20:56.745Z - Error during scraping: Attempted to use detached Frame '7E185D6FF728FDD135EBFF2BDA2E949D'.
+[ERROR] 2025-04-29T09:25:54.746Z - Error during scraping: Execution context was destroyed
+[ERROR] 2025-04-29T09:29:35.300Z - Error during scraping: Could not find job listings container
+[ERROR] 2025-04-29T10:02:20.645Z - Server error: listen EADDRINUSE: address already in use :::3000
+[ERROR] 2025-04-29T10:22:42.901Z - Error during scraping: Could not find job listings container
+[ERROR] 2025-04-29T10:22:43.589Z - Error during scraping: Could not find job listings container
+[ERROR] 2025-04-29T10:29:12.516Z - Error during scraping: Could not find job listings container
+[ERROR] 2025-04-29T10:29:13.255Z - Error during scraping: Could not find job listings container
+[ERROR] 2025-04-29T10:31:07.958Z - Error during scraping: Attempted to use detached Frame 'BC75AB0B4873C91C308D671D4228E2F2'.
+[ERROR] 2025-04-29T10:31:07.961Z - Error during scraping: Attempted to use detached Frame 'BC75AB0B4873C91C308D671D4228E2F2'.
+[ERROR] 2025-04-29T12:08:40.828Z - Error during scraping: Waiting for selector `[data-ph-at-id^="job-"],.job-tile,.job-card,a[href*="/job/"]` failed: Waiting failed: 30000ms exceeded
+[ERROR] 2025-04-29T12:10:39.343Z - Error during scraping: Waiting for selector `div.card.card-job` failed: Waiting failed: 60000ms exceeded
+[ERROR] 2025-04-29T12:13:27.901Z - Error during scraping: Waiting for selector `div#js-job-search-results.grid.job-listing.js-animate` failed: Waiting failed: 60000ms exceeded
+[ERROR] 2025-04-29T12:17:10.691Z - No job elements found on the page
+[ERROR] 2025-04-29T12:17:10.693Z - Error during scraping: Could not find job listings
+[ERROR] 2025-04-29T12:18:23.453Z - Error during scraping: Navigating frame was detached
+[ERROR] 2025-04-29T12:22:19.116Z - Navigation attempt 1 failed:
+[ERROR] 2025-04-29T12:22:29.131Z - Navigation attempt 2 failed:

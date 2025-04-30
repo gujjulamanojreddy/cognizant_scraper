@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cognizant Jobs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>Cognizant Job Listings</h1>
+                <p class="header-subtitle">Browse available positions at Cognizant</p>
+            </div>
+            <button id="scrapeButton" class="btn">Refresh Jobs</button>
+        </header>
+
+        <div class="filters">
+            <input type="text" id="searchInput" placeholder="Search jobs...">
+            <select id="locationFilter">
+                <option value="">All Locations</option>
+            </select>
+        </div>
+
+        <div id="loading" class="loading hidden">
+            <div class="spinner"></div>
+            <p>Loading jobs...</p>
+        </div>
+
+        <div id="jobList" class="job-list">
+            <!-- Jobs will be populated here -->
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
